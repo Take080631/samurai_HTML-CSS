@@ -78,7 +78,7 @@ body {
 /* -------------------- container -------------------- */
 #container {
 	width: 100%;
-	margin: auto ;
+	margin: auto;
 	padding-top: 20px;
 	clear: both;
 	display: grid;
@@ -135,9 +135,7 @@ body {
 
 /* -------------------- side -------------------- */
 #side {
-+    width: 85%;
--	 float: right;
--	 width: 30%;
+	width: 85%;
 	padding: 20px;
 	background-color: #F99;
 }
